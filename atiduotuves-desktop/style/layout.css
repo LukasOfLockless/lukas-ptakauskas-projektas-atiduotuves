@@ -1,0 +1,166 @@
+
+*
+{
+	
+	margin: 0px;
+	padding: 0px;
+	border: 0px;
+
+}
+a
+{
+	min-height: 64px;
+	min-width:64px;
+}
+
+
+a:hover
+{
+	font-size: 150%;
+	background-color: yellow;
+}
+
+body
+{
+	background-color: hsl(76, 32%, 90%);	
+	width :1920px; 
+	overflow-x: hidden; /* Hide horizontal scrollbar */
+}
+content
+{
+	
+	width: 1300px;
+}
+
+footer, #nav-row-one , #nav-row-two , #nav-row-three
+{
+	display:flex;
+	flex-flow: row;
+	text-align:center;
+	padding-left: 310px;
+	padding-right: 310px;
+	margin-top:8px;
+	margin-bottom:8px;
+	padding-bottom: 60px;
+}
+
+
+h1 
+{
+	
+	height:80px;
+	padding-left: 310px;
+	padding-right: 310px;
+	align-content: center;
+}
+
+nav
+{
+	align-content: center;
+	display: block;
+	margin:auto 16px;
+}
+
+section
+{
+	padding-left: 310px;
+	padding-right: 310px;
+	padding-top:64px;
+	padding-bottom:64px;
+}
+
+#logo
+{
+	height:60px;
+	width:auto;
+	align-self: left;
+}
+#noted-giveaways-acc
+{
+	align-self: right;
+}
+
+
+.placeholder-for-image
+{
+	border-top-left-radius: 8px;
+	border-top-radius: 8px;
+	min-width:300px;
+	min-height:300px;
+	border-radius: 16px;
+}
+
+
+
+#giveaway-search
+{
+	border-top-left-radius: 8px;
+	border-bottom-left-radius: 8px;
+	padding :4px;
+	height:32px;
+}
+
+#giveaway-search-a
+{
+	padding :4px;
+	text-aling:center;
+	height:32px;
+	border-top-right-radius: 8px;
+	border-bottom-right-radius: 8px;
+}
+
+
+#mood-image
+{
+	width: 100%;
+	height: auto;
+
+}
+.item-name
+{
+	margin-top:8px;
+	margin-bottom:4px;
+
+	text-align: center;
+}
+.item-frontpage
+{
+	border-radius:16px;
+	margin:8px;
+	border-width: 2px;
+	border-style: solid;
+	border-color:  hsl(76, 32%, 72%);
+}
+.item-frontpage:hover
+{
+	border-radius:24px;
+	margin:6px;
+	border-width: 4px;
+	border-style: solid;
+	border-color:  hsl(76, 32%, 36%);
+}
+
+.keywords-frontpage
+{
+	margin:8px;
+	text-align:center;
+	font-size:1rem;
+	min-width:64px;
+	min-height:48px;
+	max-height: 64px;
+	text-decoration: underline;
+	background: linear-gradient(30deg, hsl(76, 32%, 18%) 0%,  	hsl(19, 31%, 20%) 100%);
+	color:hsl(76, 32%, 96%);
+	border-radius:16px;padding:16px;
+}
+.keywords-frontpage:hover
+{
+	font-size:1.618rem;
+	background: linear-gradient(60deg, hsl(76, 32%, 18%) 0%,  	hsl(19, 31%, 20%) 100%);
+}
+
+.footer-link
+{
+	font-size: 14px;
+}
+
