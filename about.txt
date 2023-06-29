@@ -1,1 +1,2 @@
-pagrinis tikslas, pasidaryti desktop variantą naudojantis turimomis html css žiniomis, tada ikelti i figma ir su tinkleliais susistumdyt ir taip pirmyn atgal. import expert iki kol dizainas malonus
+main goal is to design a webpage with comfortble phone accessibility in mind.
+creating and viewing giveaway things from database.  
